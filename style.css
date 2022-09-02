@@ -1,0 +1,42 @@
+.heading {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+    width: 95%;
+    font-family: 'Charm', cursive;
+    color: rgb(82, 4, 52);
+    box-shadow: 10px 15px rgb(25, 72, 73);
+}
+.note {
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+    font-size: medium;
+    color: navy;
+    text-shadow: 1px 1px rgb(10, 94, 97);
+}
+body {
+    background-size: cover;
+}
+.div_speed {
+    float:left;
+}
+.div_speed_image{
+    width: 200px; 
+    border-radius: 100px;
+  }
+  .div_volume {
+    float: right;
+}
+.div_volume_image{
+    width: 200px; 
+    border-radius: 100px;
+  }
+  .button_play {
+  width: 130px;
+  font-size: 20px;
+  }
+  canvas{
+    border: 5px solid rgb(42, 148, 151);
+    border-radius: 20px;
+    margin-top: 160px;
+  }
